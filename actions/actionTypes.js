@@ -1,0 +1,3 @@
+export const CHECK_TOKEN="CHECK_TOKEN";
+export const CHECK_LOGIN="CHECK_LOGIN";
+export const DEFAULT_LOGIN="DEFAULT_LOGIN";
